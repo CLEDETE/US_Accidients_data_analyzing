@@ -16,3 +16,8 @@ This is a project to efficiently reallocate U.S. resources by analyzing U.S. tra
 ├── .gitignore # List of excluded files
 
 └── README.md # Project description
+
+## Key Insights
+While California had a high number of accidents, Wisconsin ranked first in average severity per accident.
+The proportion of accidents with a severity of 3 or higher increased significantly in environments with relatively heavy rain or snow.
+Since high-severity regions such as Wisconsin have a high proportion of highway accidents, strengthening highway patrols and EMS needs to be prioritized over urban personnel.
