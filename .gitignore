@@ -1,0 +1,22 @@
+# 1. Data File (용량이 크므로 제외)
+*.csv
+*.zip
+*.tar.gz
+data/
+raw/
+
+# 2. Python and env
+__pycache__/
+.venv/
+venv/
+env/
+.env
+
+# 3. Jupyter Notebook
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# 4. OS and IDE Configuration
+.DS_Store
+.vscode/
+.idea/
