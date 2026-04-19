@@ -8,7 +8,13 @@ This is a project to efficiently reallocate U.S. resources by analyzing U.S. tra
 
 ## Project Structure
 ├── data/ # Data folder (excluding Git management)
+
 ├── notebooks/ # Jupyter Notebook for EDA and analysis
+
 ├── src/ # Preprocessing and modeling scripts
+
 ├── .gitignore # List of excluded files
+
 └── README.md # Project description
+
+## Resource Optimization Strategy
